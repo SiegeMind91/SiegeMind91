@@ -2,7 +2,7 @@
 
 - I'm a programmer and analyst with more than 10 years experience in the field. 
 
-- I’m interested in C#, Python, Unity Game Development, .NET, VBA, and a host of other languages and libraries. My main focus is in Desktop Applications, but I'm working to expand my knowledge in the Web Development world. 
+- I’m interested in SQL, C#, Python, Unity Game Development, .NET, VBA, and a host of other languages and libraries. My main focus is in Desktop Applications, but I'm working to expand my knowledge in the Web Development world. 
 
 - 🌱 I’m currently furthering my knowledge in ASP.NET and the MVC architecture using Udemy lessons and LinkedIn Learning lessons. 
 
