@@ -4,7 +4,7 @@
 
 - I’m interested in SQL, C#, Python, Unity Game Development, .NET, VBA, and a host of other languages and libraries. My main focus is in Desktop Applications, but I'm working to expand my knowledge in the Web Development world. 
 
-- 🌱 I’m currently furthering my knowledge in ASP.NET and the MVC architecture using Udemy lessons and LinkedIn Learning lessons. 
+- 🌱 I’m currently furthering my knowledge in SSIS packages/tasks and ETL operations using Udemy lessons and LinkedIn Learning lessons. 
 
 - 👀  I’m looking to find a position as a Software Developer/Engineer using C# or Python. 
 
